@@ -4,6 +4,7 @@ Welcome to my personal portfolio website! 🌟 This project features my technica
 This portfolio was built using modern web development technologies to showcase my skills and experience as a Data Engineer. The site is responsive, interactive, and easy to navigate. 🌍
 
 Built With 🛠️
+
     React.js – For building the user interface ⚛️
     
     Node.js – For backend (if any) 🖥️
@@ -21,6 +22,7 @@ Built With 🛠️
     GitHub – For version control 🧑‍💻
 
 Features 🌟
+
 📖 Multi-Page Layout: Includes pages for Home, About Me, Projects, and Resume.
 
 🎨 Styled with React-Bootstrap and Custom CSS: The portfolio is designed with a clean and modern look, and colors are easy to customize.
@@ -30,14 +32,17 @@ Features 🌟
 🔐 Secure and Fast: Built with best practices for secure and fast loading times.
 
 Getting Started 🚀
+
   To run this project locally, follow the steps below:
 
 Prerequisites 🔧
+
   Make sure you have Node.js and Git installed on your system.
 
   You can download and install Node.js from nodejs.org.
 
 Installation and Setup Instructions 📝
+
   Clone this repository to your local machine:
   
   git clone https://github.com/yourusername/your-portfolio.git
@@ -67,5 +72,6 @@ Create a new project on Vercel.
   Vercel will automatically detect the framework (React.js) and deploy the app. 🚀
 
 Contact 📧
+
   You can reach out to me via email: dineshvenkatesanthen@gmail.com
   Or follow me on GitHub: https://github.com/dinesh4166
