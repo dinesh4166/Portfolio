@@ -35,6 +35,7 @@ function Projects() {
               title="File-Comparator"
               description="📁🔍 A Python GUI tool to compare two files and highlight their differences."
               ghLink="https://github.com/dinesh4166/File-Comparator"
+              demoLink="https://drive.google.com/file/d/1C4tr3YIxwwEhyvasVvmiIip8RNd3aIc8/view?usp=drive_link"
             />
           </Col>
           <Col md={4} className="project-card">
